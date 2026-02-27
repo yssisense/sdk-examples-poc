@@ -1,0 +1,13 @@
+[{
+  "name": "[Example] Sankey Chart",
+  "value": "sankey-chart"
+},
+  {
+    "name": "[Example] Calendar Heatmap",
+    "value": "calendar-heatmap"
+  },
+  {
+    "name": "[Example] Stock Ticker w/ API Integration",
+    "value": "stock-ticker"
+  }
+]
