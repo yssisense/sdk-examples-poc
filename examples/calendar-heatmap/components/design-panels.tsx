@@ -12,7 +12,7 @@ import {
 } from '@mui/material';
 import styled from '@emotion/styled';
 import { StyleOptions } from '../config';
-import { GenericDataOptions } from '@internal/sisense-sdk-ui';
+import { GenericDataOptions } from '@sisense/sdk-plugins';
 
 const Container = styled.div`
   display: flex;

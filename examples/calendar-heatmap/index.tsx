@@ -7,7 +7,7 @@ export { config } from './config';
 
 
 const manifest: PluginManifest<DataOptions, StyleOptions> = {
-    name: 'PLUGIN_NAME',
+    name: 'test',
     Component: Chart,
     DesignPanels: DesignPanels,
     config: config,
